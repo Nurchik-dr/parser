@@ -1,0 +1,7 @@
+node_modules/
+ui/node_modules/
+server/node_modules/
+parser/node_modules/
+dist/
+.ui-cache/
+.env
